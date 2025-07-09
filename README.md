@@ -43,7 +43,11 @@ Edit
 java Main
 
 
+<img width="853" height="733" alt="Image" src="https://github.com/user-attachments/assets/859341a7-f817-45c7-8f1e-667b3dec7c16" />
 
+<img width="860" height="745" alt="Image" src="https://github.com/user-attachments/assets/e16981d8-86e3-4796-9645-54af3be043b4" />
+
+<img width="852" height="748" alt="Image" src="https://github.com/user-attachments/assets/82e8a5f4-9f73-4c05-bdb5-2f06ff94b41a" />
 
 
 
