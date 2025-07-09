@@ -41,3 +41,13 @@ bash
 Copy
 Edit
 java Main
+
+
+![Alt Text](C:\Users\Pragati_Nagapure\Pictures\BricksBracker\Screenshot2025-07-09232609))
+![Alt Text](C:\Users\Pragati_Nagapure\Pictures\BricksBracker\Screenshot (122))
+![Alt Text](C:\Users\Pragati_Nagapure\Pictures\BricksBracker\Screenshot (123))
+
+
+
+
+
