@@ -43,10 +43,6 @@ Edit
 java Main
 
 
-![Alt Text](C:\Users\Pragati_Nagapure\Pictures\BricksBracker\Screenshot2025-07-09232609.png))
-![Alt Text](C:\Users\Pragati_Nagapure\Pictures\BricksBracker\Screenshot (122.png))
-![Alt Text](C:\Users\Pragati_Nagapure\Pictures\BricksBracker\Screenshot (123.png))
-
 
 
 
